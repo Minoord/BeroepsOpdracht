@@ -2,7 +2,7 @@ import time
 print("-- Computer: In deze textbased applicatie speel je als een vluchteling Aladin.")
 print("Hij is 35 jaar en woont in Marokko. Hij lijdt twee levens eentje die hij liever geheim houd en zijn normale leven.")
 print("Het verhaal begint als hij net thuis komt van zijn werk. Voordat we beginnen moet ik wel iets mededelen, dit verhaal is gebaseerd op twee echte vluchtelingen verhalen, maar ook een gedeeld ")
-print("is verzonnen. Aan het einde van het verhaal vind je linkjes naar de echte verhalen van de vluchtelingen. Laten we nu beginnen --")
+print("is verzonnen. Laten we nu beginnen --")
 print("")
 
 Stuk0 = True
